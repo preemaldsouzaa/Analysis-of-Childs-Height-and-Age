@@ -1,5 +1,5 @@
 # Analysis of Childs Height and Age
-Explored child's age-height relationship using real data. Clean, visualize, and model data with linear regression. Predict height based on age, evaluate accuracy. Insights into growth patterns through data analysis.
+Explored child's age-height relationship using real data. Cleaned, visualized, and modelled data with linear regression. Predicted height based on age, evaluate accuracy. Evaluated insights into growth patterns through data analysis.
 
 ## Introduction:
 In this data analysis, we explore the relationship between a child's age and their height. Height is an essential indicator of a child's growth and development, and understanding its correlation with age can provide valuable insights into childhood health and growth patterns. Through data cleaning, visualization, and regression modeling, we aim to uncover the nature of this relationship and quantify its strength.
